@@ -117,7 +117,8 @@ The About option displays information about the experiment and student details.
 
 **Output:**
 
-<!-- Insert the main application screenshot here -->
+<img width="1600" height="899" alt="mad 8 a" src="https://github.com/user-attachments/assets/6a9119d7-e228-4a80-b9e9-1c417ac1a026" />
+
 
 <br><br><br><br><br><br><br><br>
 
@@ -125,7 +126,8 @@ The About option displays information about the experiment and student details.
 
 **Output:**
 
-<!-- Insert the WebView screenshot here -->
+<!-<img width="1600" height="899" alt="mad 8 c" src="https://github.com/user-attachments/assets/5ebd6555-b24c-4318-8c43-a58299c6d128" />
+- Insert the WebView screenshot here -->
 
 <br><br><br><br><br><br><br><br>
 
@@ -133,6 +135,7 @@ The About option displays information about the experiment and student details.
 
 **Output:**
 
+<img width="1600" height="858" alt="mad 8 b" src="https://github.com/user-attachments/assets/89416b41-b567-4727-afc2-55e4b646b83c" />
 <!-- Insert the Options Menu screenshot here -->
 
 <br><br><br><br><br><br><br><br>
@@ -141,7 +144,8 @@ The About option displays information about the experiment and student details.
 
 **Output:**
 
-<!-- Insert the About dialog screenshot here -->
+<!<img width="1600" height="899" alt="mad 8 a" src="https://github.com/user-attachments/assets/696349e8-4589-4c7d-96d5-09739d9b9aef" />
+-- Insert the About dialog screenshot here -->
 
 <br><br><br><br><br><br><br><br>
 
